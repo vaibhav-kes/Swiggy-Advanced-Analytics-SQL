@@ -98,5 +98,3 @@ Data Analytics Professional
 💼 LinkedIn: [https://www.linkedin.com/in/vaibhav-kesarwani-b73750293](https://www.linkedin.com/in/vaibhav-kesarwani-b73750293)
 
 ---
-
-⭐ *If you found this project useful, feel free to star the repository!*
